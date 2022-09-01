@@ -8,7 +8,7 @@ body {
 }
 
 .card-menu {
-    background-color: rgb(168, 166, 166);
+    background-color: rgb(186, 211, 98);
     margin: 40px;
     width: 300px;
     padding: 25px 20px 50px 25px;
@@ -17,7 +17,7 @@ body {
 
 .card-button {
     text-decoration: none;
-    background-color: rgb(68, 63, 63);
+    background-color: rgb(83, 77, 102);
     color: white;
     font-size: 20px;
     border-radius: 20px;
@@ -35,8 +35,8 @@ body {
 }
 
 .credit-card {
-    background-color: black;
     position: relative;
+    background-image: url("./img/1618509957_25-phonoteka_org-p-fioletovii-fon-dlya-avatarki-26.jpg");
     left: 65px;
     height: 200px;
     border-radius: 10px;
